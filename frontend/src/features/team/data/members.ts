@@ -9,14 +9,14 @@ export interface TeamMember {
 export const teamMembers: TeamMember[] = [
   {
     id: 'cm',
-    name: 'Charile', // fill in real name
+    name: 'Charile Mchaileh',
     role: 'Project Manager',
     blurb: 'Hello I\'m Charlie Mchaileh, a third year Bachelor of I.T student, and I have a passion for sports and physical activity, mainly including soccer and the gym.', // fill in real blurb
     photoUrl: '/team/cm.jpg',
   },
   {
     id: 'bm',
-    name: 'Baui',
+    name: 'Bawi Tui Muk',
     role: 'Business Analyst',
     blurb: 'Hello I’m Bawi Tui Muk, a third-year Bachelor of IT student. I have a strong passion for music, sports, and PC gaming. Always up for a badminton run or a gym session. Easy going, chatty, brings vibes.',
     photoUrl: '/team/bm.jpg',
