@@ -9,7 +9,7 @@ export interface TeamMember {
 export const teamMembers: TeamMember[] = [
   {
     id: 'cm',
-    name: 'Charile Mchaileh',
+    name: 'Charlie Mchaileh',
     role: 'Project Manager',
     blurb: 'Hello I\'m Charlie Mchaileh, a third year Bachelor of I.T student, and I have a passion for sports and physical activity, mainly including soccer and the gym.', // fill in real blurb
     photoUrl: '/team/cm.jpg',
